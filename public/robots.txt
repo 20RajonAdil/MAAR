@@ -1,6 +1,0 @@
-# https://maar-five.vercel.app/robots.txt
-User-agent: *
-Allow: /
-Disallow: /thank-you
-
-Sitemap: https://maar-five.vercel.app/sitemap.xml
