@@ -1,6 +1,0 @@
-# https://maar-navy.vercel.app/robots.txt
-User-agent: *
-Allow: /
-Disallow: /thank-you
-
-Sitemap: https://maar-navy.vercel.app/sitemap.xml
